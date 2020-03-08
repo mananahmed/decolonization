@@ -5,6 +5,8 @@ date: May 2020
 
 ---
 
+Time (Progress, Change), Archive (Document, Object), Event (Narrative, Subject, Agent)
+
 * W.E.B. Dubois, "The Disenfranchised Colonies," in *Color and Democracy: Colonies and Peace*
 (New York: Harcourt, Brace and Company, 1945), pp. 17-26.
 * Aimé Césaire, *A Discourse on Colonialism*
