@@ -1,7 +1,7 @@
 ---
-title: syllabus
+title: History and Method: A Decolonization Syllabus
 author: manan ahmed
-date: may 2020
+date: May 2020
 
 ---
 
