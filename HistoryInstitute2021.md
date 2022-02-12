@@ -1,5 +1,5 @@
 ---
-title: Mellon History Workshop
+title: Mellon History Institute
 date: March 2021
 
 ---
