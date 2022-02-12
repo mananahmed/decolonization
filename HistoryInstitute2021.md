@@ -3,6 +3,7 @@ title: Mellon History Institute
 date: March 2021
 
 ---
+>**Over Zoom, every Friday and Saturday, March 5-6, 12-13, 19-20 2021**
 >Each day consists of 4 hrs (240 mins) of schedule:
 >* 5 Student/Postdoc Paper Discussion (120 mins)
 >a. One panel will have 2 to 3 papers (20-30 pages precirculated) with 2 faculty discus- sants per paper (10 mins >each). Each discussant will have 10 mins to respond to a pa- per, thus 20 minutes of discussion per paper. 30-40 mins >for open Q&A.
