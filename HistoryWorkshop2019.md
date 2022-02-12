@@ -4,14 +4,14 @@ date: March 2021
 
 ---
 >Each day consists of 4 hrs (240 mins) of schedule:
-* 5 Student/Postdoc Paper Discussion (120 mins)
-a. One panel will have 2 to 3 papers (20-30 pages precirculated) with 2 faculty discus- sants per paper (10 mins each). Each discussant will have 10 mins to respond to a pa- per, thus 20 minutes of discussion per paper. 30-40 mins for open Q&A.
-* 3 Faculty Themed Panels on Decoloniality / Decolonisation (90 mins)
-a. The themes are: Historiography and history-writing (Ahmed), Language (Deshpande),
-Polity (Mamdani). Each faculty will invite 2-3 other panelists. Three panelist will speak
-for 20 mins with a 30 mins Q&A. 3. 3 Open Talk Panels (60 mins)
-a. These will be Do-It-Yourself (DIY) panels that get at the basic premises of how we do our work.
-b. The Themes are: Archives (Deshpande), Methodology (Manan), The Challenge of History-Writing Today (Mamdani)
+>* 5 Student/Postdoc Paper Discussion (120 mins)
+>a. One panel will have 2 to 3 papers (20-30 pages precirculated) with 2 faculty discus- sants per paper (10 mins >each). Each discussant will have 10 mins to respond to a pa- per, thus 20 minutes of discussion per paper. 30-40 mins >for open Q&A.
+>* 3 Faculty Themed Panels on Decoloniality / Decolonisation (90 mins)
+>a. The themes are: Historiography and history-writing (Ahmed), Language (Deshpande),
+>Polity (Mamdani). Each faculty will invite 2-3 other panelists. Three panelist will speak
+>for 20 mins with a 30 mins Q&A. 3. 3 Open Talk Panels (60 mins)
+>a. These will be Do-It-Yourself (DIY) panels that get at the basic premises of how we do our work.
+>b. The Themes are: Archives (Deshpande), Methodology (Manan), The Challenge of History-Writing Today (Mamdani)
 
 ## Friday, March 5 – Day 1
 
@@ -153,4 +153,4 @@ Chair: Takyiwaa Manuh
 **3rd Faculty Themed Panel (90 mins) decolonize histories of language**
 - Prachi Deshpande – Moderator
 - Nandini Chatterjee
-- V. Geetha 
+- V. Geetha
