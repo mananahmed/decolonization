@@ -1,17 +1,22 @@
 ---
-author: Mahmood Mamdani
-date: Jan 2019
 title: Decolonization, the Disciplines and the University
 ---
 
+This funded project has had four meetings so far:
+
+1. [History Workshop 2020](HistoryWorkshop2020.md)--organized by IAS, Accra
+2. [History Institute 2021](HistoryInstitute2021.md)--organized by MISR, Uganda
+3. [Cultural Studies Workshop 2021](CulturalStudiesWorkshop2021.md)--organized by CSSS, India
+4. [Cultural Studies Institute 2022](CulturalStudiesInstitute2022.md)--organized by MISR, Uganda 
+
 #### Steering Committee
 
-1.	Manan Ahmed (History, Columbia University)
+1. Manan Ahmed (History, Columbia University)
 2. Partha Chatterjee (Anthropology, Columbia University)
-3.	Rosinka Chaudhuri (Centre for Studies in Social Sciences, Kolkata)
+3. Rosinka Chaudhuri (Centre for Studies in Social Sciences, Kolkata)
 4. Samer Frangie (Center for Arab and Middle Eastern Studies (CAMES) - AUB)
-5.	Dzodzi Tsikata (The Institute of African Studies, University of Ghana)	
-6.	Mahmood Mamdani (Makerere Institute of Social Research, Makerere University, Kampala)
+5. Dzodzi Tsikata (The Institute of African Studies, University of Ghana)
+6. Mahmood Mamdani (Makerere Institute of Social Research, Makerere University, Kampala)
 
 #### Funding by: The Andrew W. Mellon Foundation for US $1,500,000 from Jan 1, 2019 - Dec 31, 2023. Grant # 1808-06062.
 
@@ -619,5 +624,3 @@ Institute of Social Research, the intermediate goal is to develop an
 Inter-Disciplinary Centre for Decolonization Studies as an institutional
 base from which to deepen the research program and further develop the
 international collaboration initiated by this project.
-
-
