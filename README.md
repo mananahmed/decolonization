@@ -8,6 +8,7 @@ This funded project has had four meetings so far:
 2. [History Institute 2021](HistoryInstitute2021.md)--organized by MISR, Uganda
 3. [Cultural Studies Workshop 2021](CulturalStudiesWorkshop2021.md)--organized by CSSS, India
 4. [Cultural Studies Institute 2022](CulturalStudiesInstitute2022.md)--organized by MISR, Uganda 
+5. [Political Theory Workshop 2023](PoliticaltheoryWorkshop2023.md)--held in Accra, Ghana.
 
 #### Steering Committee
 
