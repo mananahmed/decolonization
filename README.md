@@ -2,13 +2,13 @@
 title: Decolonization, the Disciplines and the University
 ---
 
-This funded project has had four meetings so far:
+This funded project has had five meetings from 2020-2023. Click below to see list of participants and themes:
 
 1. [History Workshop 2020](HistoryWorkshop2020.md)--organized by IAS, Accra
 2. [History Institute 2021](HistoryInstitute2021.md)--organized by MISR, Uganda
 3. [Cultural Studies Workshop 2021](CulturalStudiesWorkshop2021.md)--organized by CSSS, India
 4. [Cultural Studies Institute 2022](CulturalStudiesInstitute2022.md)--organized by MISR, Uganda 
-5. [Political Theory Workshop 2023](PoliticaltheoryWorkshop2023.md)--held in Accra, Ghana.
+5. [Political Theory Workshop 2023](PoliticaltheoryWorkshop2023.md)--organized by Accra, Ghana.
 
 #### Steering Committee
 
